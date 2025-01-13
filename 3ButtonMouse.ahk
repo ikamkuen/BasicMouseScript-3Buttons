@@ -10,8 +10,8 @@ RButton::
 Return
 RButton & LButton:: Send ^c				;copy
 RButton & MButton:: Send #v				;clipboard
-RButton & WheelUp:: AltTab				;switch task
-RButton & WheelDown:: ShiftAltTab		;switch task
+RButton & WheelUp:: ShiftAltTab		;switch task
+RButton & WheelDown:: AltTab				;switch task
 
 MButton::
     KeyWait, MButton
@@ -25,5 +25,5 @@ MButton::
 Return
 MButton & RButton:: Send {XButton1}			;backward
 MButton & LButton:: Send {XButton2}			;forward
-MButton & WheelUp:: Send ^{Tab}				;switch to next tab
-MButton & WheelDown:: Send ^+{Tab}			;switch to previous tab
+MButton & WheelUp:: Send ^+{Tab}			;switch to previous tab
+MButton & WheelDown:: Send ^{Tab}				;switch to next tab

@@ -1,5 +1,5 @@
 # BasicMouseScript-3Buttons
-AutoHotKey script for augmenting 3-button mice with everyday-use functions
+AutoHotKey script/executable file for augmenting 3-button mice with everyday-use functions
 
 ## Introduction
 This is an AutoHotkey script designed to bind 10 extra functions like copy and paste onto 3-button mice. By using this script, you can use these functions without using your other hand to press the keyboard buttons, or moving your mouse to select items on the right-click menu.

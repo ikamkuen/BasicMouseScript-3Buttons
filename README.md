@@ -67,12 +67,11 @@ Double-click middle: Find in page (Ctrl + F)
 |Scroll Left||✅|
 |Scroll Right||✅|
 |Find in page|✅|✅|
-|Open new tab||✅|
-|Close current tab||✅|
+|Zoom in||✅|
+|Zoom out||✅|
 |Switch to prev tab|✅|✅|
 |Switch to next tab|✅|✅|
-|Go to desktop||✅|
-|Close current application||✅|
+|Switch desktops||✅|
 |Task view||✅|
 |Switch to prev window|✅|✅|
 |Switch to next window|✅|✅|
